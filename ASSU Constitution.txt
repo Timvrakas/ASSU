@@ -173,14 +173,6 @@ C. Undergraduate Buffer Fund        62
 Selected Letters of Acceptance
 
 
-
-
-
-
-
-
-
-
 Preamble to the Constitution
 The Signing Statement
 [In order to encourage responsible citizenship and the exercise of individual and corporate responsibility on the part of students in the government of student affairs and activities, Stanford University, by approval of this Constitution, authorizes the Associated Students of Stanford University to exercise and discharge major privileges and responsibilities within the framework of policies and regulations established by the University through the President of the University and the Board of Trustees.]1)
@@ -242,27 +234,6 @@ Section 7. Freedom of Information
 2. During the closed session, the body shall discuss only the issue or issues which caused the meeting to be closed.
 Section 8. Amendment
 The power to amend this Constitution [which][4] shall in perpetuity be vested in the members of the Association [shall be exercised pursuant to the terms and procedures of Article VII of this Constitution].[5]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -364,69 +335,6 @@ Unless otherwise stated in this Constitution, the joint approval of any item of 
 Section 13. Open Ballot
 All votes of Association legislative bodies shall be by open ballot.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Article III: Executive Branch
 Section 1. The President and Vice President
 1. The President of the Association shall be the chief executive of the Association.
@@ -468,49 +376,6 @@ Section 5. Powers and Responsibilities
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Article IV: Judicial Branch
 Section 1. Judicial Authority
 The Association shall recognize the authority of University judicial bodies over members of the Association only if those judicial bodies shall have been approved by two-thirds of those members of the Association voting in a general election.
@@ -534,12 +399,6 @@ C. Meetings of the Council
 9. [The Council shall not have the power to indict a member of the Association.][14]
 10. The Council shall also meet to adjudicate special cases as detailed throughout this Constitution.
 11. The Council shall only exist during fall, winter and spring quarters.
-
-
-
-
-
-
 
 
 Article V: Graduate and Joint Finances
@@ -598,39 +457,6 @@ Any student organization who has obtained a Special Fee may modify its budget, s
 D. Reserve Funds
 1. If the total amount spent from a General or Special Fee is less than was allocated, then the Financial Manager shall transfer the remaining funds into a Reserve Account for that fee.
 2. The Financial Manager may distribute funds from the Reserve Account of a group to that group upon authorization by the Graduate Student Council. This shall be authorized by a procedure specified in the Graduate Student Council's By-Laws.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -698,52 +524,6 @@ Section 4. Waiver of Undergraduate Student Activities Fees
 Section 5. Routine Analysis of Funding System
 1. Three years after the full implementation of the system, and every three years thereafter, the ASSU Financial Manager shall call a special meeting of the Executive Committee and develop a plan to analyze the funding system. By the first meeting of Spring Quarter, the Executive Committee shall jointly present a report detailing the impact of the funding system, and propose any appropriate changes to ensure the funding system results in optimal outcomes for students and student organizations.
 2. The analysis shall include, at minimum, a public survey and analysis of financial data from the past three years.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Article VII: Association Finances
@@ -857,14 +637,6 @@ B. Voting
 1. Recall, continued:[16] The officer or officers shall be removed from office with the concurrence of 2/3 of the members of the Association voting on her/his recall, as determined by the Elections Commission, provided that those concurring constitute at least 15% of those eligible to vote for removal. If the entire membership of the Association was eligible to vote on a given removal, then approval shall require the concurrence of 2/3 of the graduate and undergraduate populations separately, with those voting in favor of removal within each population constituting at least 15 percent of their respective populations. Any office which becomes vacant as a result of a recall election shall be filled according to the relevant sections of this Constitution.
 
 
-
-
-
-
-
-
-
-
 Article IV: Amendment
 Section 1. Submission of Amendments for Ratification
 A. General
@@ -891,54 +663,12 @@ Section 6. Integrity of This Document
 [The official text of this Constitution shall consist of its original text and letters of acceptance, appended with its amendments and associated letters of acceptance, numbered sequentially. All amendments that are placed on the ballot shall be numbered sequentially without regard to year.][18]
 
 
-
-
-
-
 ________________
 Article X: Disposition of Assets In the Event of Dissolution of the Association
 Section 1. Property of the Association
 Should this Association cease to exist, all its property shall be held in trust by the University for a period of not less than five years. If any general student association be formed and recognized within a five-year period by a majority vote of registered students at the University during an election in which over 15 percent of said students voted, then all such property so held shall remain and belong to this successor organization. If no such general student organization succeeds to the present Association within the specified five years, unqualified title to all the property of the Association shall then be vested in the University.
 Section 2. Property in the Custody of the Association
 Should this Association cease to exist, property in the custody of the Association, including monies deposited in the Students’ Organizations Fund, shall, if the owner organization continues in existence, be held by the University for the owner organization upon the same terms and conditions as the Association held such property.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Appendix 1: Fee Statement of the Undergraduate Programming, Social, and Community Service Organization Fee

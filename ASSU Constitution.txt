@@ -235,10 +235,9 @@ Article I: Name, Scope, Membership, and Independence
 Article II: Legislative Branch
     Section 1. Representative Authority
         1. The representative authority of the Association shall be vested in the legislative bodies of the Association.
-        2. The Undergraduate Senate of the Association shall be composed of 16 members, 15 of whom shall be elected by and shall represent the undergraduate members of the Association, with the 16th member being the Vice President of the Association.
+        2. The Undergraduate Senate of the Association shall be composed of 17 members, 16 of whom shall be elected by and shall represent the undergraduate members of the Association, with the 17th member being the Vice President of the Association.
         3. The Graduate Student Council of the Association shall represent the graduate and professional members of the Association. The Graduate Student Council shall have 15 members who shall be elected by and shall represent the graduate and professional members of the Association, and shall include the Vice President of the Association as the 16th member.
     Section 2. Membership of the Association Legislative Bodies
-        1. The elected members of the Association legislative bodies shall be chosen each year in the Association Spring Quarter General Election.
         2. Each elected member of an Association legislative body shall, at the time of her/his election and during her/his continuance in office, be a member of the Association and be committed, at the time of certification of her/his election, to be a member of the constituency s/he represents during her/his term of office.
         3. An elected member of an Association legislative body shall cease to be a member of that body upon the event of her/his death, resignation, disqualification, recall, or expulsion.
         4. All vacant seats on an Association legislative body shall automatically be open should a general election be called, or a special election involving the relevant Association population.
@@ -246,9 +245,13 @@ Article II: Legislative Branch
         6. Nothing in this section shall be interpreted as preventing the Association legislative bodies from enforcing appropriate sanctions against candidates whose actions in seeking office were in violation of the rules governing student elections.
     Section 3. Undergraduate Senate: Organization and Procedures
         A. Election of the Undergraduate Senate
-            1. The fifteen members of the Undergraduate Senate shall be elected from and shall represent the undergraduate population.
-            2. Each member of the undergraduate population voting may cast one vote for as many Undergraduate Senate seats as are assigned to the undergraduate population.
+            1. The sixteen members of the Undergraduate Senate shall be elected from and shall represent the undergraduate population.
+                1. Eight seats of the Undergraduate Senate shall be filled by election each year in the Association Spring Quarter General Election.
+                2. The remaining eight seats of the Undergraduate Senate shall be filled by election each year in the Undergraduate Senate Fall Elections.
+            1. No member of Association shall hold more than one seat of the Undergraduate Senate at a given time. No sitting Senator not subject to re-election shall be a candidate in an election for Undergraduate Senate.
+            2. Each member of the undergraduate population voting may cast one vote for as many Undergraduate Senate seats as are seats vacant at the time of the election.
             3. The candidates equal in number to the number of available Undergraduate Senate seats who receive the largest number of votes shall become members of the Undergraduate Senate.
+                1. Following the certification of the election results by the Undergraduate Senate, these candidates shall immediately assume their positions on the Undergraduate Senate
             4. If at any time more than one-third of the Undergraduate Senate seats are vacant, the Undergraduate Senate shall immediately call a special election to fill all vacant seats.
         B. Apportionment of votes in the Undergraduate Senate
             1. The number of voting members at all meetings of the Undergraduate Senate shall depend solely on the number of elected members in attendance.
@@ -261,16 +264,14 @@ Article II: Legislative Branch
             2. Ex-officio members of the Undergraduate Senate shall have all privileges afforded members of the Undergraduate Senate but shall never be permitted to vote.
             3. The President of the Association, elected members of the Graduate Student Council, and the Financial Manager shall be ex-officio members of the Undergraduate Senate.
         E. Undergraduate Senate Term of Office
-            1. Members of the Association elected and certified as members of the new Undergraduate Senate shall meet as the Undergraduate Senate Elect within one week after certification by the Undergraduate Senate, and at regular intervals thereafter.
-            2. The Undergraduate Senate Elect shall organize itself in a manner similar to that of the Undergraduate Senate. Members of the Undergraduate Senate Elect shall be ex-officio members of the Undergraduate Senate and observers on any body containing a member of the Undergraduate Senate. Members of the Undergraduate Senate shall be ex-officio members of the Undergraduate Senate Elect.
-            3. The Vice President Elect of the Association shall be the Presiding Officer of the Undergraduate Senate Elect.
-            4. Transition from the Undergraduate Senate Elect to the Undergraduate Senate
-                1. If the Undergraduate Senate Elect was elected by the Association Spring Quarter General Election, then at a date specified by the Undergraduate Senate or 14 days before the end of the spring quarter, whichever comes first, the Undergraduate Senate and the Undergraduate Senate Elect shall dissolve and the former members of the Undergraduate Senate Elect shall constitute the new Undergraduate Senate.
-                2. If the Undergraduate Senate Elect was elected in any other election, then within 14 days of certification of the election, the Undergraduate Senate Elect shall dissolve and the former members of the Undergraduate Senate Elect shall constitute the new Undergraduate Senate.
-                    1. The new Undergraduate Senate shall meet at least once in the academic quarter during which it was constituted as the Undergraduate Senate. At this time, it shall formalize the membership of the Undergraduate Senate committees and the appointment of Undergraduate Senate officers.
+            1. Members of the Undergraduate Senate shall serve a term of up to one year.
+            2. At each of two bi-annual elections, at least eight seats shall be subject to re-election.
+                1. The eight seats subject to annual re-election shall be filled by those candidates who receive the largest number of votes.
+                2. The vacant seats most recently subject to bi-annual election shal be filled by the candidates who receive the next largest number of votes.
+                3. The vacant seats least recently subject to bi-annual election shall be filled by those candidates who receive the next largest numbers of votes.
         F. Presiding Officer of the Undergraduate Senate
-            1. The Vice President of the Association shall preside over the Undergraduate Senate.
-            2. The Undergraduate Senate shall choose its Chair, Deputy Chair, and other officers. The Chair shall serve at the Vice President’s convenience during regular meetings of the Undergraduate Senate.
+            1. Undergraduate Senate chair shall preside over the Undergraduate Senate.
+            2. The Undergraduate Senate shall choose its Chair, Deputy Chair, and other officers.
         G. Removal from the Undergraduate Senate
             1. A member of the Undergraduate Senate may be dismissed from office in the following ways:
                 1. The undergraduate population may vote to recall the member of the Undergraduate Senate.
@@ -278,6 +279,7 @@ Article II: Legislative Branch
                     1. Grounds for dismissal from the Undergraduate Senate shall include, but not be limited to, actions which clearly violate the intent of this Constitution, consistent failure to attend regular meetings of the Undergraduate Senate, actions deemed unbecoming a member of the Undergraduate Senate.
     Section 4. Graduate Student Council: Organization and Procedures
         A. Election of the Graduate Student Council
+            1. The elected members of the Graduate Student Council shall be chosen each year in the Association Spring Quarter General Election.
             1. The fifteen elected members of the Graduate Student Council shall be elected from one or more districts of the graduate population and shall represent the members of that district.
             2. The Graduate Student Council may redistrict seats for its elected members, so long as they are based on an equitable apportionment amongst the graduate population.
             3. Each member of the graduate population voting may cast one vote in each district to which s/he belongs for each of as many Graduate Student Council seats are assigned to that district.
@@ -580,6 +582,8 @@ Article VIII: Popular Legislation
             2. General elections are those in which all members ofthe Association are eligible to vote.
             3. Special elections are those in which only a well-defined subset of the Association is eligible to vote.
             4. The Association Spring Quarter General Election is the particular general election which shall be held on two consecutive weekdays during the second,third, or fourth week of spring quarter.
+            5. The Undergraduate Senate Fall Election is the the particular special election which shall be held on two consecutive weekdays during the seventh, eighth, or ninth week of fall quarter.
+                1. The Undergraduate Senate Fall Election shall only pertain to the Undergraduate population.
     Section 2. Placement on the Ballot and Timing of Elections
         A. Initiative
             An initiative measure shall be submitted to the members of the Association for their approval or rejection according to one of the following procedures:
